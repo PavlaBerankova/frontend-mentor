@@ -6,8 +6,6 @@
 
     --width-mobile: 375px;
     --width-desktop: 1440px;
-
-    --font-size: 15px;
 }
 
 body {  
@@ -51,7 +49,7 @@ img {
 
 .item-text {
     display: flex;
-    flex-direction: column;
+    flex-direction: column; 
     gap: 1em;
     max-height: 131px;
     text-align: center;
@@ -61,10 +59,18 @@ img {
 
 .item-text h1 {
     color: rgb(var(--color-dark-blue));
+    font-size: 22px;
+    font-family: "Outfit-bold";
+    letter-spacing: 0px;
+    line-height: 120%;
 }
 
 .item-text p {
-    color: rgb(var(--color-grayish-blue))
+    color: rgb(var(--color-grayish-blue));
+    font-size: 15px;
+    font-family: "Outfit-regular";
+    letter-spacing: 0.2px;
+    line-height: 140%;
 }
 
 h1, p {

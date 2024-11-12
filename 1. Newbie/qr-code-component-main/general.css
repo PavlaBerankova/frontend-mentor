@@ -15,7 +15,6 @@ body {
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    gap: 1.5rem;
     background-color: rgb(var(--color-light-gray));
     min-height: 100vh;
     margin: 0 auto;

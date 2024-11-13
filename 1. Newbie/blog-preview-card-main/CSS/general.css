@@ -11,8 +11,6 @@ body {
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    min-height: 100vh;
-    margin: 0 auto;
 
     background-color: rgb(var(--var-yellow-color));
     display: flex;

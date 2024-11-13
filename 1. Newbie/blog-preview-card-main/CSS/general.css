@@ -12,7 +12,6 @@ body {
     justify-content: center;
     align-items: center;
     min-height: 100vh;
-    margin: 0 auto;
     background-color: rgb(var(--var-yellow-color));
     display: flex;
     flex-direction: column;
@@ -37,7 +36,6 @@ body {
     box-shadow: 0.5rem 0.5rem 0 rgb(var(--var-gray-950-color));
     width: 384px;
     height: 522px;
-    margin-top: 20rem;
 }
 
 .content-container {

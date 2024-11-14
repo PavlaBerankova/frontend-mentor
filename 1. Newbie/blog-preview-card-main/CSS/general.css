@@ -42,6 +42,7 @@ body {
 .card-container:active {
     border: 4px solid purple;
     transform: perspective(200px) translateZ(5px);
+    transition: transform 0.5s;
 }
 
 .content-container {

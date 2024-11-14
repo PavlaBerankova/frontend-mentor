@@ -1,0 +1,26 @@
+:root {
+    --var-color-green: 75, 94%, 57%;
+    --var-color-white: 0, 0%, 100%;
+    --var-color-grey-700: 0, 0%, 20%;
+    --var-color-grey-800: 0, 0%, 12%;
+    --var-color-grey-900: 0, 0%, 8%;
+}
+
+body {
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+
+    font-size: 14px;
+    font-family: "Inter", sans-serif;
+}
+
+.attribution {
+    font-size: 11px;
+    text-align: center;
+  }
+  .attribution a {
+    color: hsl(228, 45%, 44%);
+  }

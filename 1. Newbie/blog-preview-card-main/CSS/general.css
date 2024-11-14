@@ -103,6 +103,11 @@ h1 {
     font-style: normal;
 }
 
+.content-title:hover,
+.content-title:active {
+    color: rgb(var(--var-yellow-color));
+}
+
 .content-description {
     width: 336px;
     height: 72px;

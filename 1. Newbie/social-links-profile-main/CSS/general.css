@@ -123,5 +123,5 @@ button {
     text-align: center;
   }
   .attribution a {
-    color: hsl(228, 45%, 44%);
+    color: rgb(var(--var-color-green));
   }

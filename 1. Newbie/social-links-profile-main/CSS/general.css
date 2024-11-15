@@ -121,7 +121,9 @@ button {
 .attribution {
     font-size: 0.68rem;
     text-align: center;
-  }
-  .attribution a {
+}
+
+.attribution a {
     color: rgb(var(--var-color-green));
-  }
+
+}

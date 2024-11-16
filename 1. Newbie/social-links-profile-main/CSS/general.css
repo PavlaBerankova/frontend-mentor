@@ -50,14 +50,14 @@ button {
 }
 
 /* MAIN SECTION */
-.container {
+.main-container {
   width: 24rem;
   height: 38.1875rem;
   background-color: rgb(var(--var-color-grey-800));
   border-radius: 0.75rem;
 }
 
-.main-container {
+.container {
   margin: 2.5rem;
 }
 
